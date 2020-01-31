@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Guess</string>
+    <string name="textViewTitleForGuess">Guess The Number</string>
+    <string name="editTextForGuessInput">Enter Guess</string>
+    <string name="buttonCalculate">Guess</string>
+    <string name="buttonClear">Clear</string>
+    <string name="buttonStats">Game Stats</string>
+    <string name="buttonNewGame">New Game</string>
+    <string name="textViewTitleForStats">Game Stats</string>
+    <string name="buttonForReturnHome">Return Home</string>
 </resources>
