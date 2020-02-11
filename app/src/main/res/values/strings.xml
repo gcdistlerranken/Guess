@@ -8,4 +8,6 @@
     <string name="buttonNewGame">New Game</string>
     <string name="textViewTitleForStats">Game Stats</string>
     <string name="buttonForReturnHome">Return Home</string>
+    <string name="buttonRank">Rank</string>
+    <string name="buttonTotals">Totals</string>
 </resources>
